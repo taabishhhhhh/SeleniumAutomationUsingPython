@@ -12,8 +12,8 @@ This is a Python automation project using Selenium and `undetected_chromedriver`
 
 🎯 You can download and run the `.exe` version (no Python needed):
 
-🔽 **[Download Demo.exe](https://your-download-link-here)**  
-> *(Replace with your Google Drive or GitHub Release link)*
+🔽 **[Download Demo.exe](https://github.com/taabishhhhhh/SeleniumAutomationUsingPython/releases/download/v1.0/OnlineNotepadBot.exe)**  
+> https://github.com/taabishhhhhh/SeleniumAutomationUsingPython/releases/download/v1.0/OnlineNotepadBot.exe
 
 ---
 
